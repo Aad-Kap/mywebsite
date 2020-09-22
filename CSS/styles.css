@@ -1,0 +1,208 @@
+body{
+  color: #40514e;
+margin: 0;
+text-align: center;
+font-family: sans-serif;
+font-family: 'Merriweather', serif;
+}
+
+.top-container{
+background-color: #24a19c;
+position: relative;
+padding-top: 100px;
+
+}
+
+h1{
+  margin-top: 30px;
+  margin-bottom:40px;
+  position: relative;
+  top: 30px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #092532;
+}
+.subtitle{
+  position: relative;
+  top: 5px;
+  font-family: 'Sacramento', cursive;
+  font-size:2.275rem;
+  font-weight: normal;
+  color: #092532;
+
+}
+.profile-txt{
+
+  line-height: 2;
+  width: 60%;
+  margin: auto;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #056676;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #68b0ab;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 60px;
+  right: 200px;
+}
+
+.bot-cloud{
+  position: absolute;
+  bottom: 250px;
+  left: 200px;
+}
+.plane-img{
+  width: 200px;
+  position: absolute;
+  top: 30px;
+  left: 100px;
+}
+
+.profile-pic{
+  padding-top: 10px;
+  width: 250px;
+  margin: auto;
+}
+
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.gaming-txt{
+  margin-top:200px;
+
+}
+.poetry-txt{
+margin-top: 200px;
+}
+
+hr{
+margin: 80px auto 100px;
+border-style: none;
+border-top-style: dotted;
+border-color: #557571;
+border-width: 8px;
+width: 5%;
+}
+
+.web-dev-img{
+width: 33%;
+margin-right: 50px;
+float: left;
+}
+
+.gaming-img{
+  width: 30%;
+  float: right;
+margin-left: 50px;
+}
+
+.poetry-img{
+width:30%;
+float: left;
+margin-right: 50px;
+}
+
+.middle-container{
+  padding-top: 100px;
+}
+
+.bottom-container{
+margin-top: 100px;
+background-color: #24a19c;
+height: 80px;
+padding-top: 50px;
+position: relative;
+}
+
+.linkedin-img{
+  width: 20px;
+  float: left;
+  position: absolute;
+  left: 465px;
+  margin-right: 8px;
+  background-color: #24a19c;
+}
+
+.footer-link{
+  color: #40514e;
+  text-decoration: none;
+  margin: 0 80px;
+}
+
+.footer-link:hover{
+  color: white;
+}
+
+.twitter-img{
+width: 21px;
+float: left;
+margin-right: 8px;
+position: absolute;
+left:700px;
+}
+
+.copyright{
+  padding-top: 20px;
+}
+
+.contact-me{
+  position: relative;
+}
+
+.contact-head{
+  margin: auto;
+  padding-top: 13px;
+  padding-right: 10px;
+}
+
+.message-img{
+  margin-left: 5px;
+  width: 5%;
+  position: absolute;
+  top:2px;
+  right: 450px;
+}
+
+.contact-txt{
+  padding-bottom: 50px;
+}
+
+.btn {
+  background: #42a0de;
+  background-image: -webkit-linear-gradient(top, #42a0de, #10517a);
+  background-image: -moz-linear-gradient(top, #42a0de, #10517a);
+  background-image: -ms-linear-gradient(top, #42a0de, #10517a);
+  background-image: -o-linear-gradient(top, #42a0de, #10517a);
+  background-image: linear-gradient(to bottom, #42a0de, #10517a);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2edbd2;
+  background-image: -webkit-linear-gradient(top, #2edbd2, #0285c2);
+  background-image: -moz-linear-gradient(top, #2edbd2, #0285c2);
+  background-image: -ms-linear-gradient(top, #2edbd2, #0285c2);
+  background-image: -o-linear-gradient(top, #2edbd2, #0285c2);
+  background-image: linear-gradient(to bottom, #2edbd2, #0285c2);
+  text-decoration: none;
+}
